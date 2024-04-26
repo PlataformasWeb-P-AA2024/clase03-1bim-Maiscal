@@ -21,6 +21,6 @@ $(document).ready(function() {
       $('#nombreUniversidad').css( "color", "black" );
       $('body').css( "background", "black" );
   });*/
-
+//cuando pasa el mause por el nombre de la universidad se cambia de color el fondo de la pagina a negro. :v
 
 });
